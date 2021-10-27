@@ -28,6 +28,7 @@ rosrun rosserial_arduino make_libraries.py .
 roscore
 rosrun rosserial_python serial_node.py /dev/ttyACM0
 ```
+Agregar en preferencias de arduino la dirección para encontrar otras tarjetas de desarrollo:
+http://dan.drown.org/stm32duino/package_STM32duino_index.json
 
-
-
+Luego se tiene que ir a Tools - Board - Board Manager
