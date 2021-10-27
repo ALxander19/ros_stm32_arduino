@@ -32,3 +32,6 @@ Agregar en preferencias de arduino la dirección para encontrar otras tarjetas d
 http://dan.drown.org/stm32duino/package_STM32duino_index.json
 
 Luego se tiene que ir a Tools - Board - Board Manager
+
+https://youtu.be/K-jYSysmw9w
+
